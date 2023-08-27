@@ -43,8 +43,7 @@ public class App {
                     //muda so o ex - Float.parseFloat(JOptionPane.showInputDialog("Digite a idade ")
         p3.idade = Integer.parseInt(JOptionPane.showInputDialog("Digite a idade "));
 
-        JOptionPane.showMessageDialog(null, "Nome"+p3.nome
-                                                            +"\nIdade "+p3.idade);
+        JOptionPane.showMessageDialog(null, "Nome: "+p3.nome +"\nIdade: " +p3.idade);
         
     }
 }
