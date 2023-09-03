@@ -9,13 +9,6 @@ public class pessoa {
 
     //metodos
     public void mostrarDados() {
-        System.out.println("Nome: "+nome
-                            +"\nIdade: "+idade);
-    }
-
-    public void teste(){
-        //implementa o metodo 
-
-        
+        System.out.println("Nome: "+nome +"\nIdade: "+idade);
     }
 }
