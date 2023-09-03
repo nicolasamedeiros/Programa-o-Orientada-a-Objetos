@@ -6,8 +6,6 @@ public class App {
 
         System.out.println("Titulo: " +livro.titulo);
         System.out.println("Autor: " +livro.autor);
-        System.out.println("Numero de paginas: " +livro.numPaginas);
-        
-        
+        System.out.println("Numero de paginas: " +livro.numPaginas);  
     }
 }
