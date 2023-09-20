@@ -12,8 +12,10 @@ public class App {
         
         //criação do objeto gerente1
         
-        gerente gerente1 = new gerente("Fernanda", 45, "Feminino", 5000.00, "000856", 500.00);
+        gerente gerente1 = new gerente("Fernanda", 45, "Feminino", 0, "000856", 0);
         gerente1.setNomeGerencia("Gerente de Loja");
+        gerente1.setSalario(5000);
+        gerente1.setValorInss(0);
         
         //criação do objeto vendedor1
 
