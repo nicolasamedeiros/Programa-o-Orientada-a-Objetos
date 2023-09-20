@@ -34,7 +34,7 @@ public class empregado extends pessoa {
     }
 
     public void setValorInss(double valorInss) {
-        this.valorInss = valorInss * 0.11;
+        this.valorInss = valorInss;
     }
 
     public double getValorInss() {
